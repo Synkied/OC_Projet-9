@@ -1,0 +1,136 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Bold
+FamilyName:Helvetica LT Std
+StyleName:Bold
+MenuName:Helvetica LT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica LT Std Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45616
+FileModTime:1188198508
+DesignSize:120
+NameArray:0,Mac,4,Helvetica LT Std Bold
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+MenuName:Times New Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+OutlineFileName:\Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:834452
+FileModTime:1507879143
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1329308120
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeue
+FamilyName:Bebas Neue
+StyleName:Regular
+MenuName:Bebas Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bebas Neue
+WritingScript:Roman
+OutlineFileName:\BebasNeue.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45572
+FileModTime:1330506360
+NameArray:0,Mac,4,Bebas Neue
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Roman
+FamilyName:Helvetica LT Std
+StyleName:Roman
+MenuName:Helvetica LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica LT Std Roman
+FamilyNameNative:
+StyleNameNative:Roman
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45420
+FileModTime:1188198508
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std
+NameArray:0,Mac,4,Helvetica LT Std Roman
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+

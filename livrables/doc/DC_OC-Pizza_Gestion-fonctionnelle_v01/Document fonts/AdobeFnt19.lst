@@ -1,57 +1,5 @@
 %!Adobe-FontList 1.19
-%Locale:0x409
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Type1
-FontName:HelveticaLTStd-Bold
-FamilyName:Helvetica LT Std
-StyleName:Bold
-MenuName:Helvetica LT Std
-StyleBits:2
-WeightClass:700
-WidthClass:5
-AngleClass:0
-FullName:Helvetica LT Std Bold
-FamilyNameNative:
-StyleNameNative:Bold
-FullNameNative:
-WritingScript:Cyrillic
-OutlineFileName:\HelveticaLTStd-Bold.otf
-DataFormat:sfntData
-UsesStandardEncoding:yes
-isCFF:yes
-hasSVG:no
-VariableFontType:NonVariableFont
-FileLength:45616
-FileModTime:1188198508
-DesignSize:120
-NameArray:0,Mac,4,Helvetica LT Std Bold
-NameArray:0,Win,1,Helvetica LT Std
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:TrueType
-FontName:TimesNewRomanPSMT
-FamilyName:Times New Roman
-StyleName:Regular
-MenuName:Times New Roman
-StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:Times New Roman
-WritingScript:Roman
-OutlineFileName:\times.ttf
-DataFormat:sfntData
-hasSVG:no
-VariableFontType:NonVariableFont
-FileLength:1110940
-FileModTime:1489874298
-NameArray:0,Mac,4,Times New Roman
-NameArray:0,Win,1,Times New Roman
-%EndFont
+%Locale:0x40c
 
 %BeginFont
 Handler:DirectoryHandler
@@ -59,23 +7,52 @@ FontType:Type1
 FontName:BebasNeue
 FamilyName:Bebas Neue
 StyleName:Regular
+FullName:Bebas Neue
 MenuName:Bebas Neue
 StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:Bebas Neue
 WritingScript:Roman
-OutlineFileName:\BebasNeue.otf
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_9\livrables\doc\DC_OC-Pizza_Gestion-fonctionnelle_v01\Document fonts\BebasNeue.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:45572
-FileModTime:1330506360
+FileModTime:1524221753
+WeightClass:400
+WidthClass:5
+AngleClass:0
 NameArray:0,Mac,4,Bebas Neue
 NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Bold
+FamilyName:Helvetica LT Std
+StyleName:Bold
+FullName:Helvetica LT Std Bold
+MenuName:Helvetica LT Std
+StyleBits:2
+FamilyNameNative:Helvetica LT Std
+StyleNameNative:Bold
+FullNameNative:Helvetica LT Std Bold
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_9\livrables\doc\DC_OC-Pizza_Gestion-fonctionnelle_v01\Document fonts\HelveticaLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45616
+FileModTime:1524221753
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Helvetica LT Std Bold
+NameArray:0,Win,1,Helvetica LT Std
 %EndFont
 
 %BeginFont
@@ -84,24 +61,24 @@ FontType:Type1
 FontName:HelveticaLTStd-Obl
 FamilyName:Helvetica LT Std
 StyleName:Oblique
+FullName:Helvetica LT Std Oblique
 MenuName:Helvetica LT Std
 StyleBits:1
-WeightClass:400
-WidthClass:5
-AngleClass:1
-FullName:Helvetica LT Std Oblique
-FamilyNameNative:
+FamilyNameNative:Helvetica LT Std
 StyleNameNative:Oblique
-FullNameNative:
+FullNameNative:Helvetica LT Std Oblique
 WritingScript:Cyrillic
-OutlineFileName:\HelveticaLTStd-Obl.otf
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_9\livrables\doc\DC_OC-Pizza_Gestion-fonctionnelle_v01\Document fonts\HelveticaLTStd-Obl.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:43984
-FileModTime:1188198508
+FileModTime:1524221753
+WeightClass:400
+WidthClass:5
+AngleClass:1
 DesignSize:120
 NameArray:0,Mac,18,Helvetica LT Std Obl
 NameArray:0,Mac,4,Helvetica LT Std Oblique
@@ -114,27 +91,50 @@ FontType:Type1
 FontName:HelveticaLTStd-Roman
 FamilyName:Helvetica LT Std
 StyleName:Roman
+FullName:Helvetica LT Std Roman
 MenuName:Helvetica LT Std
 StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:Helvetica LT Std Roman
-FamilyNameNative:
+FamilyNameNative:Helvetica LT Std
 StyleNameNative:Roman
-FullNameNative:
+FullNameNative:Helvetica LT Std Roman
 WritingScript:Cyrillic
-OutlineFileName:\HelveticaLTStd-Roman.otf
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_9\livrables\doc\DC_OC-Pizza_Gestion-fonctionnelle_v01\Document fonts\HelveticaLTStd-Roman.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:45420
-FileModTime:1188198508
+FileModTime:1524221753
+WeightClass:400
+WidthClass:5
+AngleClass:0
 DesignSize:120
 NameArray:0,Mac,18,Helvetica LT Std
 NameArray:0,Mac,4,Helvetica LT Std Roman
 NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\projets_OC\projet_9\livrables\doc\DC_OC-Pizza_Gestion-fonctionnelle_v01\Document fonts\times.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1110940
+FileModTime:1524221753
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
 %EndFont
 
